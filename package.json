@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-minify-graphql",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "minify graphql selections in your js",
   "main": "index.js",
   "scripts": {
